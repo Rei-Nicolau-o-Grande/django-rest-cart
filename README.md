@@ -28,7 +28,9 @@ http://127.0.0.1:8000/api/token/
 
 ### Digite seu usuario e senha e peguei seu token
 
-![img.png](C:\Users\Monstro\Trabalho\Projeto\teste-supera\img-git\token_JWT.png)
+<div align="">
+<img src="https://user-images.githubusercontent.com/63524589/218339306-7f7dcdf7-45e9-43f2-b530-ca0c76a30d16.png" width="1000px" />
+</div>
 
 ### Listando todos os Produtos
 Use o metodo ``GET``
@@ -67,8 +69,9 @@ Use o metodo ``GET``
 
 http://127.0.0.1:8000/api/cart
 
-![img.png](C:\Users\Monstro\Trabalho\Projeto\teste-supera\img-git\Carrinho.png)
-
+<div align="">
+<img src="https://user-images.githubusercontent.com/63524589/218339508-c39f976a-de2f-47c2-ae49-04f5f531caea.png" width="1000px" />
+</div>
 
 ## EndPoint para adicionar e deletar do produtos do carrinho
 
@@ -78,11 +81,14 @@ Use o metodo ``POST`` para adicionar no carinho
 ``"Product"`` Vai receber o id do produto\
 ``"quantity"`` Vai receber a quantidade do produto
 
-![img.png](C:\Users\Monstro\Trabalho\Projeto\teste-supera\img-git\POST-Carrinho.png)
-
+<div align="">
+<img src="https://user-images.githubusercontent.com/63524589/218339573-0aabe9ce-0d0b-4535-a793-51d15f329631.png" width="1000px" />
+</div>
 
 Use o metodo ``Delete`` para tirar o produto do carrinho
 
 http://127.0.0.1:8000/api/cart/item/<id:int> no final adicionar o id do produto no carrinho 
 
-![img.png](C:\Users\Monstro\Trabalho\Projeto\teste-supera\img-git\Delete-Carrinho.png)
+<div align="">
+<img src="https://user-images.githubusercontent.com/63524589/218339641-724bdfb5-39d1-4ebf-a647-d033a41f7aba.png" width="1000px" />
+</div>
